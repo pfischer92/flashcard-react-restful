@@ -1,8 +1,8 @@
-package ch.fhnw.webfr.flashcardreact;
+package ch.fhnw.webfr.flashcard;
 
 import java.io.IOException;
 
-import ch.fhnw.webfr.flashcardreact.domain.Questionnaire;
+import ch.fhnw.webfr.flashcard.domain.Questionnaire;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.databind.ObjectMapper;
